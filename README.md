@@ -1,2 +1,2 @@
-# diagram
+# diagram creation testing
 test
